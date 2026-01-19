@@ -3,7 +3,7 @@
 ## Name: Kai Britzman
 * Name: GitHub username: KaiBritzman
 #### Video Demo:  <URL HERE>
-#### Link to GitHub Repo: https://github.com/KaiBritzman/DailyChecker-Project
+#### Link to GitHub Repo: https://github.com/KaiBritzman/DailyChecker
 #### Description: 
 
 My project is a to-do list website that allows users to make a to-do-list for tasks that they need to do. This can be used for daily life like cleaning the car, doing the washing, going shopping etc. It can also be used to help ahcieve big goals like starting a business, losing weight or making a big project. This is what the websites main intention is. While it can be used recreationally, it's encourged to be used for professional and more life changing uses. What makes this website different from others is it gamifys the process. Many other to-do-list websites/apps don't offer this, they just offer convenience, as you typically physically write down your tasks. I got inspired by liftoff and critique AI. Liftoff is an app that lets users track their workouts like reps(repeitions of a movement) and sets on different exercises. It uses a rank system to encourge users to progress on their excerises by adding weight or reps. Critique AI is similar in which you achieve ranks based on tasks you complete and how you progress in the gym. These software however are much more tailored to specific things like gym progession and improving your mindset. My website however is for any major goal you want to achieve (like earning more money, losing weight, starting a real estate empire etc), but is also tailored to the gym and building habits. 
