@@ -1,0 +1,30 @@
+
+.tasks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px
+}
+
+.title{
+    text-align: center;
+}
+
+.level{
+    text-align: left;
+}
+
+#TaskList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#TaskList button{
+    margin-top: 15px
+}
+
+.level{
+    text-align: left;
+}
