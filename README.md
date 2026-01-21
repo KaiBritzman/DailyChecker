@@ -2,7 +2,7 @@
 
 ## Name: Kai Britzman
 * Name: GitHub username: KaiBritzman
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://www.youtube.com/watch?v=8dMin6gaUuk
 #### Link to GitHub Repo: https://github.com/KaiBritzman/DailyChecker
 #### Description: 
 
